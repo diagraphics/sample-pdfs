@@ -3,7 +3,5 @@
   "version": "0.0.1",
   "description": "Various sample PDF documents",
   "main": "src/main.js",
-  "author": "William West",
-  "license": "MIT",
-  "private": true
+  "author": "William West"
 }
